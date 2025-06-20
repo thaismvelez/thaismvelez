@@ -10,7 +10,19 @@ I’m currently learning **Python** to deepen my data analytics skill set and ex
 --- 
 #### 💼 What I Do:
 - **Data Analysis**: Skilled in **SQL**, **Tableau**, **Power BI** and **Google Sheets** for data-driven decision-making.
+- **Creative & Analytical Problem-Solving**: I enjoy exploring data, creating visual dashboards, and applying strategic thinking to uncover insights and improve business outcomes.
 
+
+#### 📊 Featured Projects:
+- **Data Projects**: A portfolio of diverse projects showcasing real-world applications of business analytics through SQL, Google Sheets, Tableau, and Power BI. These projects reflect my ability to analyze data, design interactive dashboards, and translate complex datasets into clear, actionable insights. View them on GitHub:
+
+#### 🛠️ Skills:
+- **Languages**: SQL
+- **Tools**: Tableau, Power BI, Google Sheets, Excel
+- **Concepts**: Data Cleaning, Data Visualization
+
+#### 🔗 Connect With Me!
+Feel free to explore my work and reach out for collaboration or new opportunities. I'm currently seeking to join a company where I can apply my data analytics skills—whether in marketing analytics or a related role—to help drive impactful, insight-based decisions. I'm especially interested in mission-driven companies in health and fitness, SaaS, or fintech, where data is used to make a real difference. With a strong foundation in business intelligence tools like Tableau, Power BI, SQL, and Google Sheets, I aim to turn data into meaningful strategies that fuel growth and innovation.
 
 <!--
 **thaismvelez/thaismvelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
