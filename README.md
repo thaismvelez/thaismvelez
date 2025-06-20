@@ -1,4 +1,4 @@
-## Hi there, I'm Thais!
+## Hi, I'm Thais!
 
 
 ### Data Analyst | Former Marketing Pro | Bridging Strategy & Data to Spark Impact
