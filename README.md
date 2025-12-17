@@ -20,7 +20,7 @@ I’m currently learning **Python** to deepen my data analytics skill set and ex
 --- 
 
 #### 🛠️ Skills:
-- **Languages**: SQL
+- **Languages**: SQL, Python (Currently learning)
 - **Tools**: Tableau, Power BI, Google Sheets, Excel
 - **Concepts**: Data Cleaning, Data Visualization
 
