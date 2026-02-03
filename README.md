@@ -17,7 +17,7 @@ I’m currently learning **Python** to deepen my data analytics skill set and ex
 #### 📊 Featured Projects:
 - **Data Projects**: A portfolio of diverse projects showcasing real-world applications of business analytics through SQL, Google Sheets, Tableau, and Power BI. These projects reflect my ability to analyze data, design interactive dashboards, and translate complex datasets into clear, actionable insights. View them on GitHub: [Data Projects](https://github.com/thaismvelez/Data_Projects_TripleTen)
 
-- **Is the American Middle Class Disappearing? A Data Jam Analysis**: Fast-paced Data Jam competition project analyzing whether the American middle class is disappearing. Collaborated with a partner under a short deadline to explore income, inequality, employment, spending, and wealth trends, delivering a final presentation with data-backed insights. You can view the project here:
+- **Is the American Middle Class Disappearing? A Data Jam Analysis**: Fast-paced Data Jam competition project analyzing whether the American middle class is disappearing. Collaborated with a partner under a short deadline to explore income, inequality, employment, spending, and wealth trends, delivering a final presentation with data-backed insights. You can view the project here: [Data Jam Analysis](https://github.com/thaismvelez/middle-class-disappearing-analysis/blob/main/README.md)
 
 #### 🛠️ Skills:
 - **Languages**: SQL, Currently learning Python
