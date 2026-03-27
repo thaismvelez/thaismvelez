@@ -22,7 +22,7 @@ I’m currently completing an externiship with the Boys & Girls Club of Binghamt
 #### 🛠️ Skills:
 - **Languages**: SQL, Currently learning Python
 - **Tools**: Tableau, Power BI, Google Sheets, Excel
-- **Concepts**: Data Cleaning, Data Visualization
+- **Concepts**: Data Cleaning, Data Modeling (EER Diagrams), Data Visualization
 
 --- 
 
