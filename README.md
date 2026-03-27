@@ -5,7 +5,7 @@
 
 I’m a marketing professional turned data analyst with a passion for **transforming complex data into clear, actionable insights**. With five years of experience in business strategy, performance metrics, and digital storytelling, I’ve led growth marketing, influencer campaigns, and multi-platform content strategies for brands with 150k+ followers. I’ve recently completed a Business Intelligence Analytics Bootcamp, where I strengthened my skills in **SQL**, **Tableau**, and data visualization—bridging my **creative background with analytical expertise to support data-driven decisions**. I'm also proficient in using **Google Sheets** for data analysis and reporting.
 
-I’m currently learning **Python** to deepen my data analytics skill set and expand my ability to automate workflows, analyze larger datasets, and build more advanced tools for insights.
+I’m currently completing an externiship with the Boys & Girls Club of Binghamton, an affiliate of Boys & Girls Clubs of America, providing business insights and strategic recommendations from program data to help the organization improve participation, retention, and program impact. I'm also learning **Python** to deepen my data analytics skill set and expand my ability to automate workflows, analyze larger datasets, and build more advanced tools for insights.
 
 --- 
 #### 💼 What I Do:
