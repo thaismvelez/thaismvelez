@@ -20,9 +20,10 @@ I’m currently completing an externiship with the Boys & Girls Club of Binghamt
 - **Is the American Middle Class Disappearing? A Data Jam Analysis**: Fast-paced Data Jam competition project analyzing whether the American middle class is disappearing. Collaborated with a partner under a short deadline to explore income, inequality, employment, spending, and wealth trends, delivering a final presentation with data-backed insights. You can view the project here: [Data Jam Analysis](https://github.com/thaismvelez/middle-class-disappearing-analysis/blob/main/README.md)
 
 #### 🛠️ Skills:
-- **Languages**: SQL, Currently learning Python
+- **Languages**: SQL (PostgreSQL/MySQL), Python (In Progress)
 - **Tools**: Tableau, Power BI, Google Sheets, Excel
-- **Concepts**: Data Cleaning, Data Modeling (EER Diagrams), Data Visualization
+- **Database Design**: Relational Data Modeling, EER Diagrams, Schema Design
+- **Analytics**: Data Cleaning, Data Visualization, Gap Analysis, Trend Identification
 
 --- 
 
