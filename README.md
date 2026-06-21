@@ -3,9 +3,11 @@
 
 ### Data Analyst | Former Marketing Pro | Bridging Strategy & Data to Spark Impact
 
-I’m a marketing professional turned data analyst with a passion for **transforming complex data into clear, actionable insights**. With five years of experience in business strategy, performance metrics, and digital storytelling, I’ve led growth marketing, influencer campaigns, and multi-platform content strategies for brands with 150k+ followers. I’ve recently completed a Business Intelligence Analytics Bootcamp, where I strengthened my skills in **SQL**, **Tableau**, and data visualization—bridging my **creative background with analytical expertise to support data-driven decisions**. I'm also proficient in using **Google Sheets** for data analysis and reporting.
+I’m a marketing professional turned data analyst with a passion for **transforming complex data into clear, actionable insights**. With five years of experience in **business strategy**, **workflow optimization**, and **performance metrics**, I love looking past the numbers on a screen to **solve cross-departmental problems**. I
 
-I’m currently completing an externiship with the Boys & Girls Club of Binghamton, an affiliate of Boys & Girls Clubs of America, providing business insights and strategic recommendations from program data to help the organization improve participation, retention, and program impact. I'm also learning **Python** to deepen my data analytics skill set and expand my ability to automate workflows, analyze larger datasets, and build more advanced tools for insights.
+Right now, I am expanding my technical foundation in **SQL**, **Tableau**, **Power BI**, and spreadsheet modeling to help businesses protect data accuracy and streamline their operations. I recently completed a data analytics externship with the Boys & Girls Club, where I **cleaned complex datasets and translated donor behavior into practical growth recommendations**. During my coursework last semester, I also **designed and built a relational MySQL database** from scratch to help a local tour operator optimize their supplier scheduling and track booking revenue.
+
+I’m currently learning **Python** to expand my ability to automate tedious workflows, handle larger datasets, and build smarter tools for day-to-day business insights.
 
 --- 
 #### 💼 What I Do:
