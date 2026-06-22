@@ -18,7 +18,7 @@ I’m currently learning **Python** to expand my ability to automate tedious wor
 --- 
 
 #### 📊 Featured Projects:
-- **Sunshine Tours: Database & Operations Analysis**: A relational database designed and implemented from scratch to manage scheduling, guide assignments, and multi-passenger booking records for a local tour operator. Developed advanced SQL queries to audit supplier utilization hours, evaluate customer cancellation rates, and track revenue performance to protect data integrity and optimize day-to-day operations. You can view the project here:
+- **Sunshine Tours: Database & Operations Analysis**: A relational database designed and implemented from scratch to manage scheduling, guide assignments, and multi-passenger booking records for a local tour operator. Developed advanced SQL queries to audit supplier utilization hours, evaluate customer cancellation rates, and track revenue performance to protect data integrity and optimize day-to-day operations. You can view the project here: [Tour Operator Analysis](https://github.com/thaismvelez/tour-operator-sql-analysis/tree/main)
 
 - **Data Projects**: A portfolio of diverse projects showcasing real-world applications of business analytics through SQL, Google Sheets, Tableau, and Power BI. These projects reflect my ability to analyze data, design interactive dashboards, and translate complex datasets into clear, actionable insights. View them on GitHub: [Data Projects](https://github.com/thaismvelez/Data_Projects_TripleTen)
 
