@@ -12,11 +12,14 @@ I’m currently learning **Python** to expand my ability to automate tedious wor
 --- 
 #### 💼 What I Do:
 - **Data Analysis**: Skilled in **SQL**, **Tableau**, **Power BI** and **Google Sheets** for data-driven decision-making.
-- **Creative & Analytical Problem-Solving**: I enjoy exploring data, creating visual dashboards, and applying strategic thinking to uncover insights and improve business outcomes.
+- **Operations & Workflow Optimization**: Experienced in designing efficient cross-functional workflows, managing partner relationships, and auditing backend data records for accuracy and data integrity.
+- **Strategic Problem-Solving**: I enjoy exploring data, creating visual dashboards, and looking past the numbers on a screen to **solve cross-departmental problems** and improve business outcomes.
 
 --- 
 
 #### 📊 Featured Projects:
+- **Sunshine Tours: Database & Operations Analysis**: A relational database designed and implemented from scratch to manage scheduling, guide assignments, and multi-passenger booking records for a local tour operator. Developed advanced SQL queries to audit supplier utilization hours, evaluate customer cancellation rates, and track revenue performance to protect data integrity and optimize day-to-day operations. You can view the project here:
+
 - **Data Projects**: A portfolio of diverse projects showcasing real-world applications of business analytics through SQL, Google Sheets, Tableau, and Power BI. These projects reflect my ability to analyze data, design interactive dashboards, and translate complex datasets into clear, actionable insights. View them on GitHub: [Data Projects](https://github.com/thaismvelez/Data_Projects_TripleTen)
 
 - **Is the American Middle Class Disappearing? A Data Jam Analysis**: Fast-paced Data Jam competition project analyzing whether the American middle class is disappearing. Collaborated with a partner under a short deadline to explore income, inequality, employment, spending, and wealth trends, delivering a final presentation with data-backed insights. You can view the project here: [Data Jam Analysis](https://github.com/thaismvelez/middle-class-disappearing-analysis/blob/main/README.md)
