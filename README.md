@@ -3,7 +3,7 @@
 
 ### Data Analyst | Former Marketing Pro | Bridging Strategy & Data to Spark Impact
 
-I’m a marketing professional turned data analyst with a passion for **transforming complex data into clear, actionable insights**. With five years of experience in **business strategy**, **workflow optimization**, and **performance metrics**, I love looking past the numbers on a screen to solve cross-departmental problems.
+I’m a marketing professional turned data analyst with a passion for **transforming complex data into clear, actionable insights**. With five years of experience in **business strategy**, **workflow optimization**, and **performance metrics**, I love looking past the numbers on a screen to **solve cross-departmental problems**.
 
 Right now, I am expanding my technical foundation in **SQL**, **Tableau**, **Power BI**, and spreadsheet modeling to help businesses protect data accuracy and streamline their operations. I recently completed a data analytics externship with the Boys & Girls Club, where I **cleaned complex datasets and translated donor behavior into practical growth recommendations**. During my coursework last semester, I also **designed and built a relational MySQL database** from scratch to help a local tour operator optimize their supplier scheduling and track booking revenue.
 
@@ -13,7 +13,7 @@ I’m currently learning **Python** to expand my ability to automate tedious wor
 #### 💼 What I Do:
 - **Data Analysis**: Skilled in **SQL**, **Tableau**, **Power BI** and **Google Sheets** for data-driven decision-making.
 - **Operations & Workflow Optimization**: Experienced in designing efficient cross-functional workflows, managing partner relationships, and auditing backend data records for accuracy and data integrity.
-- **Strategic Problem-Solving**: I enjoy exploring data, creating visual dashboards, and looking past the numbers on a screen to **solve cross-departmental problems** and improve business outcomes.
+- **Strategic Problem-Solving**: I enjoy exploring data, creating visual dashboards, and looking past the numbers on a screen to solve cross-departmental problems and improve business outcomes.
 
 --- 
 
