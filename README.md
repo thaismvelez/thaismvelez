@@ -1,7 +1,7 @@
 ## Hi, I'm Thais!
 
 
-### Data Analyst | Marketing Pro | Bridging Strategy & Data to Spark Impact
+### Data Analyst | Marketing Pro | Connecting Data to Business Strategy
 
 I’m a business and data professional with experience across strategy, operations, customer experience, and analytics. I enjoy **turning complex data into clear, actionable insights** that help teams **solve problems**, **improve workflows**, and **make better decisions**. My background in marketing and growth gives me a **strong understanding of customers and business performance**, while my analytics experience helps me **connect the data to the bigger picture**.
 
